@@ -1,0 +1,44 @@
+{
+  "name": "express-sequelize-kit-mb",
+  "version": "1.0.0",
+  "description": "A reusable package for backend development using Node.js, Express, and Sequelize, featuring customizable CRUD operations and commonly used API and repository functions. It promotes clean code, encapsulation, and DRY principles for easy integration into various projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "crud",
+    "backend",
+    "orm",
+    "mysql",
+    "repository-pattern",
+    "rest-api",
+    "mvc"
+  ],
+  "author": {
+    "name": "Mangesh Balkawade",
+    "email": "mangeshbalkawade219@gmail.com",
+    "url": "https://github.com/mangesh-balkawade"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mangesh-balkawade/express-sequelize-kit-mb"
+  },
+  "bugs": {
+    "url": "https://github.com/mangesh-balkawade/express-sequelize-kit-mb/issues"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "express-sequelize-kit-mb": "file:",
+    "mysql2": "^3.11.3",
+    "sequelize": "^6.37.3"
+  },
+  "homepage": "https://github.com/yourusername/express-sequelize-kit-mb#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
