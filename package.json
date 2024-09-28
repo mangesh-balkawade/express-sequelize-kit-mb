@@ -1,6 +1,6 @@
 {
   "name": "express-sequelize-kit-mb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A reusable package for backend development using Node.js, Express, and Sequelize, featuring customizable CRUD operations and commonly used API and repository functions. It promotes clean code, encapsulation, and DRY principles for easy integration into various projects.",
   "main": "index.js",
   "scripts": {
