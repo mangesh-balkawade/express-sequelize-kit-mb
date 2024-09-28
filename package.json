@@ -37,7 +37,7 @@
     "mysql2": "^3.11.3",
     "sequelize": "^6.37.3"
   },
-  "homepage": "https://github.com/yourusername/express-sequelize-kit-mb#readme",
+  "homepage": "https://github.com/mangesh-balkawade/express-sequelize-kit-mb",
   "engines": {
     "node": ">=14.0.0"
   }
